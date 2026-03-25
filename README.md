@@ -3,9 +3,7 @@
 This repository serves as the central documentation and architecture hub for a distributed ERP ecosystem. The system is split into specialized services to optimize performance across Web, Mobile, and Administrative interfaces.
 
 ## 🛰️ System Architecture
-<p align="center">
-    <img src="./assets/system_structure.svg" alt="System Architecture Diagram" width="800">
-</p>
+![System Architecture Diagram](./assets/architecture.svg)
 
 ## 📦 Repository Index
 
