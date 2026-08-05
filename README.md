@@ -15,7 +15,7 @@ This repository serves as the central documentation and architecture hub for a d
 * **Role:** Native Android/iOS application for candidate onboarding.
 * **Key Tech:** Dart, ValueListeneable state management, App-Links.
 
-### 3. [System of Project Tables](https://github.com/ziga11/diploma-boards)
+### 3. [System of Project Tables - Loom](https://github.com/ziga11/loom)
 * **Role:** The "Monday.com" clone dashboard for internal HR management.
 * **Key Tech:** Vite, TypeScript, Bootstrap, Supabase.
 
