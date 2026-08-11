@@ -16,8 +16,8 @@ This repository serves as the central documentation and architecture hub for a d
 * **Key Tech:** Dart, ValueListeneable state management, App-Links.
 
 ### 3. [System of Project Tables - Loom](https://github.com/ziga11/loom)
-* **Role:** The "Monday.com" clone dashboard for internal HR management.
-* **Key Tech:** Vite, TypeScript, Bootstrap, Supabase.
+* **Role:** The "Monday.com" clone dashboard, developed as a general solution. Used for internal HR management (keeping track of candidates).
+* **Key Tech:** Vite, TypeScript, Supabase.
 
 ### 4. [Project Form Frontend (TypeScipt & Vite)](https://github.com/ziga11/proj-obrazec-backend)
 * **Role:** Decoupled service for dynamic document generation.
